@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JgkT4e3+dV6qVK+qB0vQx5YwU/TP13CEob/r5epVK6VNwGOesEvdX+E7McS1ln6ZlWsREnQ5Vs9fAStv29+d/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Source\\Repos\\AtomBlue\\AtomBlue\\AtomBlue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.visualstudio.vsixcolorcompiler\\17.0.31709.430\\microsoft.visualstudio.vsixcolorcompiler.17.0.31709.430.nupkg.sha512"
+  ],
+  "logs": []
+}
